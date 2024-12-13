@@ -48,14 +48,12 @@ button#start-music:hover {
 
 .santa-container {
     position: relative;
-    height: 144px;
-    width: 288px;
+    height: 200px;
     margin: auto;
 }
 
 #santa {
     height: 100%;
-    width: 100%;
 }
 
 .hidden {
